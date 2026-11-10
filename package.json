@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "npm --prefix HlcImperative run dev",
+    "build": "npm --prefix HlcImperative run build",
+    "preview": "npm --prefix HlcImperative run preview"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.2.1",
+    "vite": "^8.3.6"
+  }
+}
