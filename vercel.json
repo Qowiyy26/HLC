@@ -1,0 +1,5 @@
+{
+  "installCommand": "npm --prefix HlcImperative ci",
+  "buildCommand": "npm --prefix HlcImperative run build",
+  "outputDirectory": "HlcImperative/dist"
+}
